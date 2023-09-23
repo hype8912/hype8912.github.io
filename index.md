@@ -29,6 +29,6 @@ After everything I replaced I still had some random gremlins with keeping the tr
 
 
 #### Reference Links
-http://www.73-87.com/
+[http://www.73-87.com](http://www.73-87.com)
 
-https://harristuning.com/Tbi/recommended-350-tbi-mods/
+[https://harristuning.com/Tbi/recommended-350-tbi-mods/](https://harristuning.com/Tbi/recommended-350-tbi-mods/)
