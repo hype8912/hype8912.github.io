@@ -2,124 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Index
+* [Manuals](manuals.md)
+* [VIN and Build Breakdown](vin.md)
+* [Brakes](/brakes/index.md)
+* [Electrical](/electrical/index.md)
+* [Engine](/engine/index.md)
+* [Exhaust](/exhaust/index.md)
+* [Exterior](/exterior/index.md)
+* [Fuel](/fuel/index.md)
+* [Suspension](/suspension/index.md)
+* [Transmission](/transmission/index.md)
 
-[Link to another page](./another-page.html).
+# General Information
+1987 GMC Sierra Classic aka R1500 \
+305 TBI Engine \
+700R4 Transmission
 
-[Other page](./docs/another_page.md)
+## The Story
 
-There should be whitespace between paragraphs.
+I purchased the truck in April of 2022. I was originally told that it had the original 305 TBI engine. The truck had three owners with the second owner assuming the vehicle. The original owner purchased the truck and used it as a daily truck for many years. Eventually the truck became a farm truck and was used from time to time. At some point the driver's door was wrecked and replaced with a door from the junk yard. When the original owner died his Son was given ownership of the vehicle. The Son held on to it for a few months but finally decided to sell it as he had no use for it. The Son sold the vehicle to the person I purchased the truck from. The third owner drove the truck from upstate South Carolina to Summerville, SC. They had planned to pull the truck apart and it become the third owners daily drive but he found a 2500 diesel 4x4 squarebody so he decided to sell the truck.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I found the truck on [Facebook Marketplace](https://photos.app.goo.gl/SokMM4RyTdFzPkux8) maybe 30 minutes after it was posted. I test drove the truck and decided to make an offer on the truck for $3500. Once I got the truck home and start looking through it the gremlins started to come out. I replaced the usually stuff when you get a very old vehicle. Oil, oil filter, fuel filter, belts, distributor cap, and distributor rotor. The truck also had a check engine light on since it's the first year with OBD1. The only code was a 21 for Throttle Position Sensor. I decide change the throttle position sensor, rebuild the TBI, and replace the idle air control valve.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+After everything I replaced I still had some random gremlins with keeping the truck running or running rough. I found and fixed multiple broken wires or twisted together wires. On August 30th, 2022 the truck broke down on me while my daughters and I were out for a drive. I had the truck towed home. I worked on the truck for a few months testing stuff and shooting wires but I never could get it to run again. After pressure from the HOA for my truck be parked on the curb I had a tow truck company put the vehicle in the garage. It's sat there since. I've slowly worked on stuff.
 
 
-### Definition lists can be used with HTML syntax.
+#### Reference Links
+http://www.73-87.com/
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+https://harristuning.com/Tbi/recommended-350-tbi-mods/
