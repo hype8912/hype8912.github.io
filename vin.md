@@ -5,6 +5,7 @@ layout: default
 # VIN and Build Breakdown
 
 ## VIN
+
 | Digit | Value |
 | :--: | -- |
 |1|US Built|
@@ -21,6 +22,7 @@ layout: default
 |XXXXXX|Production Number|
 
 ## Build
+
 | Code | Value |
 | :--: | -- |
 AU3|Power Door Lock System Option
