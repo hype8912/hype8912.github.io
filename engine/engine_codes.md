@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Engine Codes
-After buying the truck and starting to dig into all the issues I found that the truck no longer had the original 305 engine installed. I was a little heart broken because I really wanted the 305 engine since my first C10 had a 305 engine. After much digging I learn that the engine is basically a cobbled together frankenstin engine. Meaning it's got parts from multiple years.
+After buying the truck and starting to dig into all the issues I found that the truck no longer had the original 305 engine installed. I was a little heart broken because I really wanted the 305 engine since my first C10 had a 305 engine. After much digging I learned that the engine is basically a cobbled together frankenstin engine. Meaning it's got parts from multiple years.
 
 ## Engine
 Block code: T0107CKH

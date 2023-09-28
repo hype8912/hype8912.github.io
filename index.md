@@ -27,8 +27,17 @@ I found the truck on [Facebook Marketplace](https://photos.app.goo.gl/SokMM4RyTd
 
 After everything I replaced I still had some random gremlins with keeping the truck running or running rough. I found and fixed multiple broken wires or twisted together wires. On August 30th, 2022 the truck broke down on me while my daughters and I were out for a drive. I had the truck towed home. I worked on the truck for a few months testing stuff and shooting wires but I never could get it to run again. After pressure from the HOA for my truck be parked on the curb I had a tow truck company put the vehicle in the garage. It's sat there since. I've slowly worked on stuff.
 
-
-### Reference Links
+## Reference Links
 [http://www.73-87.com](http://www.73-87.com)
 
-[https://harristuning.com/Tbi/recommended-350-tbi-mods/](https://harristuning.com/Tbi/recommended-350-tbi-mods/)
+[GM 350 TBI Modifications](https://harristuning.com/Tbi/recommended-350-tbi-mods/)
+
+[LS Swap Instructions and Parts](https://www.youtube.com/watch?v=3BRI84MXS90&t=631s)
+
+### Notable Builds
+
+[Project Boomhauer](https://www.hoonigan.com/blogs/build-sheet/project-boomhauer-c10)
+
+[1986 600 HP Silverado](https://www.hoonigan.com/blogs/build-biology-season-02/ultimate-squarebody-street-truck-600-hp-supercharged-ls-86-silverado-that-handles-too)
+
+[1986 C10 Flying Brick](https://www.streettrucksmag.com/the-flying-brick-86-chevy-c-10-little-shop-of-horrors/)

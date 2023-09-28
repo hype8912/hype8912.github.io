@@ -21,5 +21,5 @@ Includes O2 sensor, fuel lines, filters, regulator, fuel pump
 ## Extra Parts
 List of extra parts to do it correctly
 
-* Fuel sneding unit with AN fittings
+* Fuel sending unit with AN fittings
 * Fuel filter with AN fittings or AN adapters for fuel filter

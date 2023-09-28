@@ -9,6 +9,7 @@ Converting to a carburetor allows for the removal of the ECM and makes maintenan
 * Intake manifold
 * Carburetor with auto choke - 600 CFM
 * Vacuum Advance Distributor
+* Fuel pump time delay relay
 * Fuel pressure regulator
 * Fuel pressure gauge
 * [Torque Converter Lock Up Switch Kit](https://www.ebay.com/itm/263099168550)

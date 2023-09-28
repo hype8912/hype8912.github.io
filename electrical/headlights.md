@@ -14,6 +14,7 @@ When I replaced the headlamps I also chose to replace the hardware for mounting 
 * [36-0417 Parking Light Bulb Sockets](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1983-88-parklight-models-with-dual-headlights)
 * [29-0825 Headlight Adjuster Springs](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1981-87-dual-headlight)
 * [30-0731 Headlight Adjuster Screws](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1981-87-dual-headlight)
+* [36-4740 Headlight Mount - Upper Left Hand](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1981-87-dual-headlight)
 * [36-4741 Headlight Mount - Upper Right Hand](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1981-87-dual-headlight)
 * [36-4742 Headlight Mount - Lower Left Hand](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1981-87-dual-headlight)
 * [36-4743 Headlight Mount - Lower Right Hand](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1981-87-dual-headlight)
@@ -23,8 +24,6 @@ When I replaced the headlamps I also chose to replace the hardware for mounting 
 * [4 Headlight Relay Wiring Harness](https://www.amazon.com/gp/product/B00GNU37QU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Headlight Assemblies
-[Current Headlights](https://www.octanelighting.com/auto-lighting/headlights/4x6-headlights/4x6-black-projector-crystal-clear-glass-halogen-h-set-ol-138-black-60w-sw-2.html)
-
 
 
 ## Wiring
