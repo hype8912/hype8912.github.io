@@ -26,7 +26,7 @@ layout: default
 | Code | Value |
 | :--: | -- |
 AU3|Power Door Lock System Option
-A01|Tinted Glass Option
+A01|Tinted Glass Option, All Windows
 A31|Power Windows
 A52|Front Bench Seat
 BB5|Interior Headliner
@@ -34,8 +34,8 @@ BC3|Interior Deluxe Panel
 BS4|Back Panel Insulation
 BX6|Exterior Cab Back Molding
 B3W|Preliminary Price Information
-B30|Floor Carpet Covering
-B32|Front Floor Mats Covering
+B30|Floor and Wheelhouse Carpet Covering
+B32|Front Floor Mats Covering Color-Keyed
 B7N|Pickup Box Panels (Non-Prime)
 B85|Exterior Belt Reveal Molding
 BS3|Acoustical Insulation Package?
@@ -63,7 +63,7 @@ K34|Automatic Electronic Speed Control
 L03|V8 5.0 Liter 305 cu in Electronic Fuel Injection
 MD8|Auto 4 Speed THM700R4 Transmission
 MX0|4-Speed Automatic with Overdrive
-NA5|Standard Emission Equipment. Not California Compliant.
+NA5|Standard Emission Equipment. Not California Compliant
 NL2|16-gallon Auxiliary Fuel Tank
 N31|Custom Steering Wheel
 N33|Tilt Type Steering Column
@@ -71,16 +71,16 @@ N41|Power Variable Ratio Steering
 N67|Rally Wheels 15" x 8" with 225 or 235 size tires
 SLM|Processing Code Stock Order
 TFE|Sales Incentive for Factory Order Vehicle
-TT5|Halogen H-Bean Headlamps
-UA1|Heavy-Duty Battery 630 Cold Cranking Amps Delco Freedom.
-UF2|Cargo Lamp
+TT5|Halogen Hi-Beam Headlamps
+UA1|Heavy-Duty Battery 630 Cold Cranking Amps Delco Freedom
+UF2|Cargo Area Lamp
 UN9|Suppression Equipment Radio
 UP8|Stereo Radio Installment Provisions
 U35|Quartz Electric Clock
 U37|Cigarette Lighter
 U58|AM/FM Stereo Radio
 U76|Windshield Antenna
-V22|Deluxe Front Appearance Option. Nameplate on deluxe instrument panel, Dark Argent Grille with bright trim, dual rectangular headlamps. Chrome Grill
+V22|Deluxe Front Appearance Option. Nameplate on deluxe instrument panel, Dark Argent Grille with bright trim, dual rectangular headlamps. Black and Chrome Grill
 V42|Rear Chrome Step Bumper
 V73|US/Canada Vehicle Statement
 XEU|Front Highway Tires 225/75R15  Capacity: 1703 lb each
