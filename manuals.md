@@ -12,6 +12,8 @@ layout: default
 
 [Power Steering](http://www.73-87chevytrucks.com/techinfo/7387CKMans//Training/GMC_1500_2500_3500_Power_Steering_Service_Training_Booklet.pdf)
 
+[1987 GM Truck Specification Sheet](https://www.gmheritagecenter.com/docs/gm-heritage-archive/vehicle-information-kits/Chevrolet-Trucks/1987-Chevrolet-Truck.pdf)
+
 [AutoZone Repair Manuals](https://www.autozone.com/user/repairGuides/3002368106)
 
 ## Wiring

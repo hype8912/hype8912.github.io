@@ -21,7 +21,7 @@ When I replaced the headlamps I also chose to replace the hardware for mounting 
 * [30-0574 Headlight Trim Screws](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1981-87-dual-headlight)
 * [31-0511 Trim Screws](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1985-87-grille-and-components-with-dual-headlights-gmc)
 * [30-0476 Trim Screws](https://www.lmctruck.com/1973-87-chevy-gmc/cc-1985-87-grille-and-components-with-dual-headlights-gmc)
-* [4 Headlight Relay Wiring Harness](https://www.amazon.com/gp/product/B00GNU37QU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [4 Headlight Relay Wiring Harness](https://a.co/d/etDmUZn)
 
 ## Headlight Assemblies
 

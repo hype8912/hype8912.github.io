@@ -19,7 +19,7 @@ layout: default
 |8|Check Digit |
 |H|1987 |
 |F|Flint, MI |
-|XXXXXX|Production Number|
+|726596|Production Number|
 
 ## Build
 
@@ -104,4 +104,6 @@ Z88|Name Plate GMC Conversion
 Wheel Base: 117.5" \
 Order #: KK7742
 
-[https://www.gmheritagecenter.com/docs/gm-heritage-archive/vehicle-information-kits/Chevrolet-Trucks/1987-Chevrolet-Truck.pdf](https://www.gmheritagecenter.com/docs/gm-heritage-archive/vehicle-information-kits/Chevrolet-Trucks/1987-Chevrolet-Truck.pdf)
+You used to be able to order the factory build sheet for your vehicle from GM but they have since ended that program. 
+
+[1987 GM Truck Specification Sheet](https://www.gmheritagecenter.com/docs/gm-heritage-archive/vehicle-information-kits/Chevrolet-Trucks/1987-Chevrolet-Truck.pdf)

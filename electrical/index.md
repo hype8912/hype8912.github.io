@@ -5,8 +5,8 @@ layout: default
 # Electrical
 
 * [ECM](ecm.md)
-* [Lighting](lighting.md)
 * [Headlights](headlights.md)
+* [Lighting](lighting.md)
 * [Power Windows](windows.md)
 * [Tail Lights](taillights.md)
 

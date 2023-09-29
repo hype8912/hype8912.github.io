@@ -4,6 +4,9 @@ layout: default
 
 # Fuel System
 
+* [Diagrams](./diagrams.md)
+* [E85 Conversion](./e85_conversion.md)
+
 Gas: 87 octane
 
 Dual 16 gallon tank. Passengers side tank rusted out. Drivers side tank is new but is a non fuel injected tank.

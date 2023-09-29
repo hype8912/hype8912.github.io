@@ -4,10 +4,12 @@ layout: default
 
 # Engine
 
-* [Vacuum](./vacuum.md)
 * [Engine Codes](./engine_codes.md)
+* [Exhaust](./exhaust.md)
+* [Transmission](./transmission.md)
+* [Vacuum](./vacuum.md)
 * [305 TBI to TPI Conversion](./305_tpi_conversion.md)
-* [350 TBI to TPI Conversion](./350_carb_conversion.md)
+* [350 TBI to Carb Conversion](./350_carb_conversion.md)
 * [350 TBI to Sniper Conversion](./350_sniper_conversion.md)
 
 ## Info
