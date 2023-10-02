@@ -46,3 +46,4 @@ A list of fittings needed for converting current engine mounted pump to AN braid
 * Pontiac G5
 * Toyota Prius 2004 - 2009
 * Toyota Corolla 2009+
+* Holden Astra TS 1998 - 2006

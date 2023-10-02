@@ -16,6 +16,8 @@ layout: default
 
 [AutoZone Repair Manuals](https://www.autozone.com/user/repairGuides/3002368106)
 
+[Charm 1987: R1500 P/U 2WD V8-305 5.0L](https://charm.li/GMC%20Truck/1987/R%201500%20P%2FU%202WD%20V8-305%205.0L/)
+
 ## Wiring
 [Wiring Manual](http://www.73-87chevytrucks.com/techinfo/7387CKMans//Wiring/ST_350_87_1987_Chevrolet_GMC_Light_Truck_Wiring_Manual_Complete_11x17.pdf)
 
