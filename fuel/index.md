@@ -11,7 +11,14 @@ Gas: 87 octane
 
 Dual 16 gallon tank. Passengers side tank rusted out. Drivers side tank is new but is a non fuel injected tank.
 
+| | | |
+| -- | -- | -- |
+| Feed | 3/8" | 6AN |
+| Return | 5/16" | 6AN |
+| Vapor | 1/4" | 4AN |
+
 ## Fuel Tank Access
+
 Roughly 17" x 17"
 
 [Access Panel](../images/fuel_tank_access_panel.png)

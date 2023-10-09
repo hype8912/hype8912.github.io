@@ -27,30 +27,39 @@ Stock cam specs: Lobe lift .2484 and .2667 exhaust
 Valve lift .373 intake .400 exhaust
 
 ## Cooling
+
 [Radiator with Electric Fans](https://www.ebay.com/itm/184468734892)
 
 2 x [Cooling Fan Relay Kit](https://www.ebay.com/itm/373424973740)
 
 ## Intake and Heads
+
 [1996 - 2002 350 Vortec Intake Manifold with L31 Cast Iron Heads 906062](https://www.jegs.com/i/JEGS+Performance+Products/555/513002/10002/-1)
 
 Heads - Summit Racing SUM-151124
 
 ## Distributor
+
 [Smart Distributor](https://progressionignition.com/)
 
 Ignition Module 369 module \
 10482827, AD1943A, D1943A -> 19179578
 
 ## Notes
-87 TPI L69/LB9	190hp 240lb-ft
 
-88 TPI LO5	210hp 300lb-ft	9.3:1
+| | | | |
+| -- | -- | -- | -- |
+| 87 TPI | L69/LB9 | 190hp | 240lb-ft |
+| 88 TPI | LO5 | 210hp | 300lb-ft | 9.3:1 |
+| 87 TBI | L03 | 170hp | 255lb-ft | 9.1:1 |
+| 96 FI | LT1 | 260hp | 330lb-ft | |
 
-87 TBI L03	170hp 255lb-ft	9.1:1
-
-96 FI  LT1	260hp 330lb-ft
-
-[C10 to LS Engine Mounts](https://tejassteelworks.com/product/squarebody-ls-motor-mounts/)
+[GM 350 TBI Modifications](https://harristuning.com/Tbi/recommended-350-tbi-mods/)
 
 [Small Block 400+ HP Build](https://www.onallcylinders.com/2020/06/05/ask-away-with-jeff-smith-getting-400-hp-from-an-old-small-block-chevy/)
+
+### LS Swap
+
+[C-10 to LS Engine Mounts](https://tejassteelworks.com/product/squarebody-ls-motor-mounts/)
+
+[LS Swap Instructions and Parts](https://www.youtube.com/watch?v=3BRI84MXS90&t=631s)

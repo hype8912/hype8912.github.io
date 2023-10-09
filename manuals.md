@@ -24,6 +24,7 @@ layout: default
 [AutoZone Wiring Diagrams](https://www.autozone.com/diy/repair-guides/gm-full-size-trucks-1980-1987-repair-guide-wiring-diagrams-repair-guide-p-0900c1528004c636)
 
 Haynes Wiring Diagrams
+
 * [81-87 Front Lighting](http://www.73-87chevytrucks.com/techinfo/wiring_diagrams/81-87_frt_light.jpg)
 * [81-87 I6 Engine Compartment](http://www.73-87chevytrucks.com/techinfo/wiring_diagrams/81-87_I6_engine.jpg)
 * [81-87 V8 Engine Compartment](http://www.73-87chevytrucks.com/techinfo/wiring_diagrams/81-87_V8_engine.jpg)
@@ -48,4 +49,3 @@ Haynes Wiring Diagrams
 [1987 GMC Trucks](https://www.oldcarbrochures.com/static/NA/GM%20Trucks%20and%20Vans/1987_Trucks_and_Vans/1987%20GMC%20Trucks/dirindex.html)
 
 [1987 GMC Truck Ad](https://www.oldcaradvertising.com/GM%20Trucks/1987/1987%20GMC%20Truck%20Ad-01.jpg)
-

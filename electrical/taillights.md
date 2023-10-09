@@ -3,9 +3,11 @@ layout: default
 ---
 
 # Tail lights
+
 I wanted to make maintenance easier for removing the bed so I didn't have to cut any wiring. To do this I used a 4-way trailer extension cable to make a plug and socket for the tail lights at the end of the bed. If you really wanted to do this correctly so you could add on a trailer plug for towing you would want to use a 5-way trailer plug and socket but the cost of that was more than I was willing to spend right now as a 4-way plug served the purpose I needed.
 
 _Tool and Parts_
+
 * Wire Cutters/Strippers
 * Heat shrink
 * Electrical tape
@@ -26,7 +28,7 @@ _Tool and Parts_
 
 ## 4-pin Trailer Plug
 
-| Wire Color | Trailer Signal | Truck Signal | 
+| Wire Color | Trailer Signal | Truck Signal |
 | -- | -- | -- |
 | Yellow | Left Turn/Brake | Same |
 | Dark Green | Right Turn/Brake | Same |
@@ -44,6 +46,7 @@ _Tool and Parts_
 | White | Ground | Ground |
 
 ## 7-pin Trailer Plug
+
 Wiring up a 7-pin trailer plug will be hard since the signal for the turn signal and brake are handled inside the steering column switch.
 
 | Wire Color | Signal |

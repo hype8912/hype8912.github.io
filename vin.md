@@ -61,7 +61,7 @@ J50|Power Brake System
 K22|94 Amp Alternator
 K34|Automatic Electronic Speed Control
 L03|V8 5.0 Liter 305 cu in Electronic Fuel Injection
-MD8|Auto 4 Speed THM700R4 Transmission
+MD8|Auto 4 Speed THM700R4/4L60 Transmission
 MX0|4-Speed Automatic with Overdrive
 NA5|Standard Emission Equipment. Not California Compliant
 NL2|16-gallon Auxiliary Fuel Tank
@@ -104,6 +104,6 @@ Z88|Name Plate GMC Conversion
 Wheel Base: 117.5" \
 Order #: KK7742
 
-You used to be able to order the factory build sheet for your vehicle from GM but they have since ended that program. 
+You used to be able to order the factory build sheet for your vehicle from GM but they have since ended that program.
 
 [1987 GM Truck Specification Sheet](https://www.gmheritagecenter.com/docs/gm-heritage-archive/vehicle-information-kits/Chevrolet-Trucks/1987-Chevrolet-Truck.pdf)

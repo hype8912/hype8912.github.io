@@ -13,7 +13,7 @@ Built-in gauges
 * Voltage
 * Oil Pressure
 
-[Dakota Guages](https://www.dakotadigital.com/index.cfm/page/ptype=product/product_id=782/category_id=784/mode=prod/prd782.htm)
+[Dakota Gauges](https://www.dakotadigital.com/index.cfm/page/ptype=product/product_id=782/category_id=784/mode=prod/prd782.htm)
 [Triple Pillar Gauge Pod](https://www.glowshiftdirect.com/black-triple-pillar-gauge-pod-for-1973-1987-chevrolet-c-10/)
 
 ## Headliner
