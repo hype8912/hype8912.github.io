@@ -14,4 +14,4 @@ Muffler: Flowmaster DBX
 
 Tip:
 
-[ ![Boom tube](../images/nascar_boom_tube.jpg) ](../images/nascar_boom_tube.jpg)
+[![Boom tube](../images/nascar_boom_tube.jpg)](../images/nascar_boom_tube.jpg)

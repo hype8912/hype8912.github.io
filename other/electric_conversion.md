@@ -99,3 +99,9 @@ Battery pack temp sensor (Optional)
 * Windshield wiper motor
 
 ## Cruise Control
+
+## Other
+
+[Tesla Rear Subframe Mount Kit](https://www.holley.com/products/ev_conversions/swap_brackets_and_accessories/parts/HEV002-001)
+
+[S2SLA 1985 C-10 Conversion](https://www.holley.com/blog/post/this_tesla-swapped_chevrolet_c10_takes_ev_performance_to_another_level/)

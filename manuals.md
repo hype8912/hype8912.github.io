@@ -6,7 +6,7 @@ layout: default
 
 [Service Manual](http://www.73-87chevytrucks.com/techinfo/7387CKMans//Service/ST_330_87_1987_Chevrolet_Light_Duty_Truck_Service_Manual.pdf)
 
-[Unit Repair Manual](http://www.73-87chevytrucks.com/techinfo/7387CKMans//Service/ST_330_87_1987_Chevrolet_Light_Duty_Truck_Service_Manual.pdf)
+[Unit Repair Manual](http://www.73-87chevytrucks.com/techinfo/7387CKMans//Service/ST_333_87_1987_Chevrolet_Light_Duty_Truck_Unit_Repair_Manual.pdf)
 
 [Emissions and Drivability](http://www.73-87chevytrucks.com/techinfo/7387CKMans//Fuel_Emissions/X8736_1987_GMC_Light_Duty_Truck_Fuel_and_Emissions_Including_Driveability.pdf)
 
@@ -19,6 +19,7 @@ layout: default
 [Charm 1987: R1500 P/U 2WD V8-305 5.0L](https://charm.li/GMC%20Truck/1987/R%201500%20P%2FU%202WD%20V8-305%205.0L/)
 
 ## Wiring
+
 [Wiring Manual](http://www.73-87chevytrucks.com/techinfo/7387CKMans//Wiring/ST_350_87_1987_Chevrolet_GMC_Light_Truck_Wiring_Manual_Complete_11x17.pdf)
 
 [AutoZone Wiring Diagrams](https://www.autozone.com/diy/repair-guides/gm-full-size-trucks-1980-1987-repair-guide-wiring-diagrams-repair-guide-p-0900c1528004c636)

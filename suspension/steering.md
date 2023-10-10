@@ -25,18 +25,19 @@ A list of fittings needed for converting current engine mounted pump to AN braid
 
 ## Electric Hydraulic Pumps
 
-[https://www.therangerstation.com/tech/toyota-electric-power-steering-eps-conversion/](https://www.therangerstation.com/tech/toyota-electric-power-steering-eps-conversion/)
+[Toyota Electric Power Steering (EPS) Conversion](https://www.therangerstation.com/tech/toyota-electric-power-steering-eps-conversion/)
 
 * Mini Cooper 2002 - 2008
   * 100 amp fuse
-* Volvo S40 2004 - 2013
+* Volvo S40/S60 2004 - 2013
   * [40 amp fuse](https://a.co/d/8CmjVEg)
   * [6AN male to M16 x 1.5 male with O ring](https://a.co/d/6MbePmn) (Pressure side)
   * [CHF 202 Power Steering Fluid](https://a.co/d/dXEtZsG)
   * AN6 Power steering lines and fittings
 * Toyota MR2 1991 - 2005
-* Mazda 3 2007era
-* Holden Astra TS 1998 - 2006
+* Mazda 3 2007era (Requires CAN inputs)
+* Holden/Saturn Astra TS 1998 - 2009
+  * The TRW pump is preferred.
 
 ### Links
 
