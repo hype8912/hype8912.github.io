@@ -16,7 +16,7 @@ Since my notes were created the Sniper 2 system has come out. I think the Sniper
 * [Torque Converter Lock Up Switch Kit](https://www.ebay.com/itm/263099168550)
 * Fuel Lines
 * Transmission Kick Down Bracket (Not required with Sniper 2)
-* Wideband O2 Sensor
+* Wideband O2 Sensor (Included with Kit)
 
 Sniper Master Kit  Refurb: $1200  New: $1550  550-511K, 550-510K, 550-516K \
 Includes O2 sensor, fuel lines, filters, regulator, fuel pump

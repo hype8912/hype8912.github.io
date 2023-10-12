@@ -24,7 +24,7 @@ layout: default
 
 [AutoZone Wiring Diagrams](https://www.autozone.com/diy/repair-guides/gm-full-size-trucks-1980-1987-repair-guide-wiring-diagrams-repair-guide-p-0900c1528004c636)
 
-Haynes Wiring Diagrams
+### Haynes Wiring Diagrams
 
 * [81-87 Front Lighting](http://www.73-87chevytrucks.com/techinfo/wiring_diagrams/81-87_frt_light.jpg)
 * [81-87 I6 Engine Compartment](http://www.73-87chevytrucks.com/techinfo/wiring_diagrams/81-87_I6_engine.jpg)
