@@ -10,6 +10,10 @@ Milage is truly unknown so until I switch the instrument cluster out no milage w
 
 Replaced drivers side fuel tank - [See E85 conversion](./fuel/e85_conversion.md)
 
+## 2023-10-11
+
+Replaced [Front Sidemarker light](https://a.co/d/aF8NDhR) assemblies
+
 ## 2023-09-25
 
 Replaced [EVAP canister to TBI hose](https://photos.app.goo.gl/yWpWYQ8o5DvPtBhK8)
