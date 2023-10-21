@@ -41,6 +41,6 @@ Stamp: 333882
 
 | Year(s) | Code | Description | Intake | Exhaust | CCs | Port Size |
 | -- | -- | -- | -- | -- | -- | -- |
-| 1974 - 1980 | 333882 | 350ci or 400ci | 1.94 | 1.5 | 76 | 160/160cc | 
+| 1974 - 1980 | 333882 | 350ci or 400ci | 1.94 | 1.5 | 76 | 160/160cc |
 
 Prone to cracking, thin cast, low compression, and smog compliant heads
