@@ -18,6 +18,8 @@ Tip:
 
 [![Boom tube](../images/nascar_boom_tube.jpg)](../images/nascar_boom_tube.jpg)
 
+[Summit Racing Volcano Wrap](https://www.summitracing.com/parts/sum-350212-1)
+
 ## Exhaust Pipe Sizes for Street Performance
 
 | Single OD (IN) | Dual OD (IN) | Power (HP) | Engine Size (CI) |
