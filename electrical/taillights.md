@@ -6,7 +6,7 @@ layout: default
 
 I wanted to make maintenance easier for removing the bed so I didn't have to cut any wiring. To do this I used a 4-way trailer extension cable to make a plug and socket for the tail lights at the end of the bed. If you really wanted to do this correctly so you could add on a trailer plug for towing you would want to use a 5-way trailer plug and socket but the cost of that was more than I was willing to spend right now as a 4-way plug served the purpose I needed.
 
-_Tool and Parts_
+## Tool and Parts
 
 * Wire Cutters/Strippers
 * Heat shrink

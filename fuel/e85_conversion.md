@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# E85 Fuel System Upgrade (INWORK)
+# E85 Fuel System Upgrade (IN-WORK)
 
 Below is what's required for switching to EFI but maintaining the stock TBI setup.
 
-_Understandings_
+## Understandings
 
 * You will be maintaining the stock TBI
 * You will be switching to EFI sometime in the future
@@ -154,7 +154,7 @@ Most of the clamps you have for the old fuel lines are probably metal and/or 30 
 
 While you have the tanks dropped there will be other things you'll probably want to replace and/or do.
 
-You may want to purchase new tank support brackets. Mine were very rusted and I ended up snapping the bolt on the front tank bracket strap when I was removing the tank. If I was going to order 1 tank bracket I may as well order both tank brackets. I was able to pick up both tank brackets from Jegs for a decent price. While I was replacing the tank brackets, I also chose to purchase a new bolt set from LMC Truck for mounting the new hangers and the anti squeak kit.
+You may want to purchase new tank support brackets. Mine were very rusted and I ended up snapping the bolt on the front tank bracket strap when I was removing the tank. If I was going to order 1 tank bracket I may as well order both tank brackets. I was able to pick up both tank brackets from JEGS for a decent price. While I was replacing the tank brackets, I also chose to purchase a new bolt set from LMC Truck for mounting the new hangers and the anti squeak kit.
 
 * [106-820-4073-1 Front Gas Tank Support Bracket](https://www.jegs.com/i/Auto-Metal-Direct/106/820-4073-1/10002/-1)
 * [106-820-4073-2 Rear Gas Tank Support Bracket](https://www.jegs.com/i/Auto-Metal-Direct/106/820-4073-2/10002/-1)

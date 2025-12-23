@@ -8,7 +8,7 @@ This is only ideas if I ever planned to convert the truck to electric. The premi
 
 ## Transmission
 
-The selection for a 2-speed powerglide transmission is because the Tesla Model S comes with a 2-speed transmission. They switched to the 2-speed after destroying too many transmissions. The hydraulic pump will be used to circulate the transmission fluid since the torque converter will be removed.
+The selection for a 2-speed Powerglide transmission is because the Tesla Model S comes with a 2-speed transmission. They switched to the 2-speed after destroying too many transmissions. The hydraulic pump will be used to circulate the transmission fluid since the torque converter will be removed.
 
 * Short aluminum power glide 2-speed without torque converter
 * Electric hydraulic pump

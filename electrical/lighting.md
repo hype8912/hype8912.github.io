@@ -10,7 +10,7 @@ layout: default
 | Brake Light | 2057 | Clear | 6.7W/27W | | | BAY15D |
 | Cargo Area Light | 1142 | Clear | 18.4W | | | BA15D |
 | Clock Light | 194 | Clear | 3.8W | 0.8W | -3W | W21X92D |
-| Courtesy Light | 194 | Clear | 3.8W | | |WX21X9D |
+| Courtesy Light | 194 | Clear | 3.8W | | | WX21X9D |
 | Dome Light | 211-2 | Clear | 12.4W | | | T-3 |
 | Engine Compartment Light | 93 | Clear | 13.3W | | | BAY15S |
 | Front Turn Signal/Parking Light | 2057 | Amber | 6.7W/27W | | | BAY15D |

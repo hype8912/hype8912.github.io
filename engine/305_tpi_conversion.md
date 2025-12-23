@@ -11,7 +11,7 @@ Converting a TBI (Throttle Body Injected) to TPI (Tuned Port Injection) only pro
 * TPI ECU
 * TPI manifold and throttle body assembly
 * Fuel pump for 40 - 47 psi
-  * [ACDelco EP381](https://www.jegs.com/i/ACDelco/065/EP381/10002/-1)
+  * [AC Delco EP381](https://www.jegs.com/i/ACDelco/065/EP381/10002/-1)
 * Fuel lines - PTFE fuel injection
 * TPI wiring harness
 * Extended throttle cable

@@ -7,6 +7,7 @@ layout: default
 ## Gauges
 
 Built-in gauges
+
 * Fuel level
 * Water temp
 * Speedometer

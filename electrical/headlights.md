@@ -48,4 +48,4 @@ H4 55W/60W Bulbs
 | | | | | |
 | R HIGH & LOW | 11A | I12 | LT GRN | |
 | | 12A | W7 | TAN | 12 M19 0.8 TAN |
-| | 151E | B24 BLK | |
+| | 151E | B24 BLK | | |

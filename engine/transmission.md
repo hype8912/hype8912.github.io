@@ -27,15 +27,15 @@ Brandon Sloan of Performance Transmissions in Greenville, SC
 | Case length | 23.375" overall |
 | Input spline | 27 spline to 1983 <br> 30 spline from 1984+ |
 | Weight | ~200 lbs dry |
-| Fluid type | [ACDelco 10-9395, 10-9244 Dexron VI ATF](http://amzn.to/2sFDUGJ) |
+| Fluid type | [AC Delco 10-9395, 10-9244 Dexron VI ATF](http://amzn.to/2sFDUGJ) |
 | Fluid capacity | 8.8 - 11.4 quarts |
-| Filter | GM 12360655 <br> [ACDelco Gold TF-235](https://a.co/d/hlbtuSz) |
+| Filter | GM 12360655 <br> [AC Delco Gold TF-235](https://a.co/d/hlbtuSz) |
 | Pan gasket | [GM 08654799](https://amzn.to/3Jzt5hc) |
 | Pan magnet | [GM 29535617](https://amzn.to/3VzHlMB) |
-| Pan bolts | [551683](https://a.co/d/afhevKP)|
+| Pan bolts | [551683](https://a.co/d/afhevKP) |
 | Speedometer adapter | GM 1565170 |
 | Speedometer cable | GM 88959477 |
-| Identification | ![ID](../images/700r4_gasket.jpg)
+| Identification | ![ID](../images/700r4_gasket.jpg) |
 | Service interval | Replace transmission filter and fluid every 50,000 miles under normal conditions or every 30,000 miles under "severe service" condition. |
 
 ## Cooler

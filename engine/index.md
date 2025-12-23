@@ -9,10 +9,11 @@ layout: default
 * [Transmission](./transmission.md)
 * [Vacuum](./vacuum.md)
 * [305 TBI to TPI Conversion](./305_tpi_conversion.md)
-* [350 TBI to Carb Conversion](./350_carb_conversion.md)
+* [350 TBI to Carburetor Conversion](./350_carb_conversion.md)
 * [350 TBI to Sniper Conversion](./350_sniper_conversion.md)
 
 ## Info
+
 Oil: 10W-30 or 10W-40
 
 | Gen 1 | 1987 | L03 (H) | 170 hp at 4400 rpm | 255 lb-ft at 2400 rpm | 305 | 3.736 in bore x 3.48 in stroke | 9.1:1 | Iron | TBI |
@@ -47,9 +48,9 @@ Ignition Module 369 module \
 
 ## Notes
 
-| | | | |
-| -- | -- | -- | -- |
-| 87 TPI | L69/LB9 | 190hp | 240lb-ft |
+| | | | | |
+| -- | -- | -- | -- | -- |
+| 87 TPI | L69/LB9 | 190hp | 240lb-ft | |
 | 88 TPI | LO5 | 210hp | 300lb-ft | 9.3:1 |
 | 87 TBI | L03 | 170hp | 255lb-ft | 9.1:1 |
 | 96 FI | LT1 | 260hp | 330lb-ft | |

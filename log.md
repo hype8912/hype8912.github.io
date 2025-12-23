@@ -6,13 +6,13 @@ layout: default
 
 Milage is truly unknown so until I switch the instrument cluster out no milage will be posted.
 
-## Inwork
+## In-work
 
 Replaced drivers side fuel tank - [See E85 conversion](./fuel/e85_conversion.md)
 
 ## 2023-10-11
 
-Replaced [Front Sidemarker light](https://a.co/d/aF8NDhR) assemblies
+Replaced [Front Side marker light](https://a.co/d/aF8NDhR) assemblies
 
 ## 2023-09-25
 
